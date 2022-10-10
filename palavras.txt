@@ -2,3 +2,7 @@ bola
 casa
 massa
 jade
+computador
+aranha
+carro
+disco
